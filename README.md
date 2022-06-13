@@ -4,4 +4,5 @@
 <h2>In this app I used:</h2>
 <ul>
     <li>React.js</li>
+    <li>CSS</li>
 </ul>
