@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hex-Rgb-generator/static/css/main.67e39573.css",
+    "main.js": "/Hex-Rgb-generator/static/js/main.ac6d5788.js",
+    "index.html": "/Hex-Rgb-generator/index.html",
+    "main.67e39573.css.map": "/Hex-Rgb-generator/static/css/main.67e39573.css.map",
+    "main.ac6d5788.js.map": "/Hex-Rgb-generator/static/js/main.ac6d5788.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67e39573.css",
+    "static/js/main.ac6d5788.js"
+  ]
+}
